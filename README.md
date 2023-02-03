@@ -3,7 +3,9 @@
 
 Um aplicativo com finalidade de mostrar como as animações podem impactar tanto visualmente quanto em quesito de experiencia do usuário.
 
-<img src="(https://github.com/gabrielgarciamendonca/blogapp/blob/master/blogapp.gif)" width="250" height="500" />
+<div align="center">
+   <img src="https://github.com/gabrielgarciamendonca/blogapp/blob/master/blogapp.gif" width="250" height="500" />
+</div>
 
 ## Autores
 
