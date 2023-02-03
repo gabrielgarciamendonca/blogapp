@@ -3,8 +3,7 @@
 
 Um aplicativo com finalidade de mostrar como as animações podem impactar tanto visualmente quanto em quesito de experiencia do usuário.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/gabrielgarciamendonca/blogapp/blob/master/blogapp.gif)" width="250" height="500" />
 
 ## Autores
 
